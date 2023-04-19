@@ -1,5 +1,15 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
+<style>
+  ul {
+    max-width: 600px; /* ajuste el valor según sea necesario */
+    margin: 0 auto; /* establece los márgenes izquierdo y derecho como automáticos */
+  }
+  h1 {
+    max-width: 600px; /* ajuste el valor según sea necesario */
+    margin: 0 auto; /* establece los márgenes izquierdo y derecho como automáticos */
+  }
+</style>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">

@@ -26,5 +26,5 @@ revistas, folletos publicitarios y muchos otros proyectos de diseño gráfico.
         </p>
         
     </body>
-    <li><a href="index.jsp">Inicio</a></li>
+
 </html>
