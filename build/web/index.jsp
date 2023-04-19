@@ -7,13 +7,7 @@
     </head>
     <body>
         <h1>PAGINA PRINCIPAL</h1>
-        <ul>
-            <li>Inicio</li>
-            <li>Quienes somos</li>
-            <li>Servicios</li>
-            <li>Portafolio</li>
-            <li>Contactos</li>
-        </ul>
+        <%@include file ="menu.jsp" %>
 
     </body>
 </html>
